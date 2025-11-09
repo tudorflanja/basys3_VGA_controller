@@ -1,0 +1,18 @@
+# Vivado build files
+*.log
+*.jou
+*.str
+*.runs/
+*.cache/
+*.srcs/
+*.hw/
+*.sim/
+*.ip_user_files/
+*.xpr
+*.bit
+*.dcp
+*.tmp
+
+# OS files
+.DS_Store
+Thumbs.db
